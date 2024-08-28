@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevin-seb
+- 👋 Hi, I’m kevin
 - 👀 I’m interested in data science projects involved in the stock market, sports, and sustainability
 - 🌱 I’m currently learning basic ML and deep learning
 - 📫 How to reach me kevin.sebastian@gmail.com
